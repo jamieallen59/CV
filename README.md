@@ -4,7 +4,7 @@ Jamie Allen
 **Currently available for work as a junior web developer in London**
 
 I love making things that are easy to use.
-- Read my code on [GitHub].
+Read my code on [GitHub].
 
 Code examples
 -------------
@@ -17,7 +17,7 @@ Code examples
 Web development
 ---------------
 
-This year I decided to enable myself to build digital products in code. I think a user's experience is the most important thing about any product.
+This year I decided to start building digital products and I think a user's experience is the most important thing about any product.
 
 
 ### Skills
@@ -44,7 +44,7 @@ This year I decided to enable myself to build digital products in code. I think 
   - GitHub Flavoured Markdown
   - Deployment to Heroku
 
-### Makers Academy
+### [Makers Academy]
 **Web Development Bootcamp: June&mdash;September 2014**
 
   - Highly selective 12 week full-time course
@@ -57,8 +57,9 @@ This year I decided to enable myself to build digital products in code. I think 
 Experience
 ----------
 
-### Qustodian
+### Qustodian UK
 **Design and Product Development. March 2012&mdash;June 2014**
+
 Responsible for full editorial control of all published content on the mobile app. Designing, writing and publishing hundreds of advertising campaigns on the app. The role also included:
 
 - proposing and presenting website, mobile website and app design improvements to development team and working closely through each iteration.
@@ -69,11 +70,14 @@ Responsible for full editorial control of all published content on the mobile ap
 - press advert, landing page, mobile banner and web banner design.
 - affiliate marketing account management.
 
-Get in touch
+Contact me
 ------------
 
-Mobile: 07872 441 306,
-Email: [jamieallen59@gmail.com]
+- Mobile: 07872 441 306,
+- Email: [jamieallen59@gmail.com]
+- [Github]
+- [LinkedIn]
+- [Twitter]
 
   [Twitter front-end]: https://github.com/jamieallen59/Twitter_front_end
   [Thermostat]: https://github.com/jamieallen59/Thermostat
@@ -81,6 +85,7 @@ Email: [jamieallen59@gmail.com]
 
   [Makers Academy]: http://www.makersacademy.com
   [jamieallen59@gmail.com]: mailto:jamieallen59@gmail.com
+  [Twitter]: https://twitter.com/JamieAllen59
   [GitHub]: https://github.com/jamieallen59
   [LinkedIn]: uk.linkedin.com/pub/jamie-allen/49/9bb/577/
 
