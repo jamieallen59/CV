@@ -78,8 +78,9 @@ Contact me
 - [Github]
 - [LinkedIn]
 - [Twitter]
+- [Tyba]
 
-  [Twitter front-end]: https://github.com/jamieallen59/Twitter_front_end
+  [Boris bikes]: https://github.com/jamieallen59/boris_bikes
   [Thermostat]: https://github.com/jamieallen59/Thermostat
   [Challenge Me]: https://github.com/yoshdog/challenge-me
 
@@ -88,6 +89,7 @@ Contact me
   [Twitter]: https://twitter.com/JamieAllen59
   [GitHub]: https://github.com/jamieallen59
   [LinkedIn]: uk.linkedin.com/pub/jamie-allen/49/9bb/577/
+  [Tyba]: http://tyba.com/jamieallen59/
 
   [Nicola Aitken]: https://github.com/aitkenster
   [Toan Nguyen]: https://github.com/yoshdog
