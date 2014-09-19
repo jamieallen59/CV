@@ -11,7 +11,7 @@ Code examples
 
 | [Challenge Me] | [Boris bikes] | [Thermostat] |
 |:-------------- |:------------- |:------------ |
-| Test Driven Rails MVP created in 10 days to make fundraising fun. | A simple Boris Bikes program with an emphasis on code readability and OO design. | A fully tested (Jasmine) JavaScript Thermostat that you can play with. |
+| Test Driven Rails MVP created in 10 days to make fundraising fun. | A simple Boris Bikes program with an emphasis on code readability and OO design. | A fully tested (in Jasmine) JavaScript Thermostat that you can play with. |
 
 
 Web development
