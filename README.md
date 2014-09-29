@@ -6,6 +6,8 @@ Jamie Allen
 I love making things that are easy to use.
 Read my code on [GitHub].
 
+Have a look at my [website.](http://jamieallen.herokuapp.com/)
+
 Code examples
 -------------
 
