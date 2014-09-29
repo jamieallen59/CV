@@ -80,7 +80,7 @@ Contact me
 - [Github]
 - [LinkedIn]
 - [Twitter]
-- [Tyba]
+- [Personal Website]
 
   [Boris bikes]: https://github.com/jamieallen59/boris_bikes
   [Thermostat]: https://github.com/jamieallen59/Thermostat
