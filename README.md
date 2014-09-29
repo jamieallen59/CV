@@ -6,7 +6,7 @@ Jamie Allen
 I love making things that are easy to use.
 Read my code on [GitHub].
 
-Have a look at my [website.](http://jamieallen.herokuapp.com/)
+Have a look at my [website.](http://www.jamieallen.co.uk/)
 
 Code examples
 -------------
@@ -91,7 +91,7 @@ Contact me
   [Twitter]: https://twitter.com/JamieAllen59
   [GitHub]: https://github.com/jamieallen59
   [LinkedIn]: uk.linkedin.com/pub/jamie-allen/49/9bb/577/
-  [Tyba]: http://tyba.com/jamieallen59/
+  [Personal Website]: http://www.jamieallen.co.uk/
 
   [Nicola Aitken]: https://github.com/aitkenster
   [Toan Nguyen]: https://github.com/yoshdog
