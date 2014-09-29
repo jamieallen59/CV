@@ -19,7 +19,7 @@ Code examples
 Web development
 ---------------
 
-This year I decided to start building digital products and I think a user's experience is the most important thing about any product.
+This year I decided to enable myself to build digital products. To me, a user's experience is the most important thing about any product.
 
 
 ### Skills
