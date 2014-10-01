@@ -84,7 +84,7 @@ Contact me
 
   [Boris bikes]: https://github.com/jamieallen59/boris_bikes
   [Kickstagram]: https://github.com/jamieallen59/Kickstagram
-  [Challenge Me]: https://github.com/yoshdog/challenge-me
+  [Challenge Me]: https://github.com/jamieallen59/challenge_me
 
   [Makers Academy]: http://www.makersacademy.com
   [jamieallen59@gmail.com]: mailto:jamieallen59@gmail.com
