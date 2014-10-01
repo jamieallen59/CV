@@ -75,7 +75,7 @@ Responsible for full editorial control of all published content on the mobile ap
 Contact me
 ------------
 
-- Mobile: 07872 441 306,
+- Mobile: 07872 441 306
 - Email: [jamieallen59@gmail.com]
 - [Github]
 - [LinkedIn]
