@@ -11,9 +11,9 @@ Have a look at my [website.](http://www.jamieallen.co.uk/)
 Code examples
 -------------
 
-| [Challenge Me] | [Boris bikes] | [Thermostat] |
+| [Challenge Me] | [Boris bikes] | [Kickstagram] |
 |:-------------- |:------------- |:------------ |
-| Test Driven Rails MVP created in 10 days to make fundraising fun. | A simple Boris Bikes program with an emphasis on code readability and OO design. | A fully tested (in Jasmine) JavaScript Thermostat that you can play with. |
+| Test Driven Rails MVP created in 10 days to make fundraising fun. | A simple Boris Bikes program with an emphasis on code readability and OO design. | A fully tested Instagram clone for trainers, built using Ruby on Rails. Also uses the Gmaps API. |
 
 
 Web development
@@ -83,7 +83,7 @@ Contact me
 - [Personal Website]
 
   [Boris bikes]: https://github.com/jamieallen59/boris_bikes
-  [Thermostat]: https://github.com/jamieallen59/Thermostat
+  [Kickstagram]: https://github.com/jamieallen59/Kickstagram
   [Challenge Me]: https://github.com/yoshdog/challenge-me
 
   [Makers Academy]: http://www.makersacademy.com
