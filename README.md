@@ -11,9 +11,9 @@ Have a look at my [website.](http://www.jamieallen.co.uk/)
 Code examples
 -------------
 
-| [Challenge Me] | [Boris bikes] | [Kickstagram] |
+| [Challenge Me] | [Boris bikes] | [Selector engine] |
 |:-------------- |:------------- |:------------ |
-| Test Driven Rails MVP created in 10 days to make fundraising fun. | A simple Boris Bikes program with an emphasis on code readability and OO design. | A fully tested Instagram clone for trainers, built using Ruby on Rails. Also uses the Gmaps API. |
+| Test Driven Rails MVP created in 10 days to make fundraising fun. | A simple Boris Bikes program with an emphasis on code readability and OO design. | A program to take CSS selectors and return DOM elements. Tested and built using pure JavaScript. |
 
 
 Web development
@@ -37,12 +37,11 @@ This year I decided to enable myself to build digital products. To me, a user's 
   - Behaviour driven development with Cucumber
   - FactoryGirl
   - Version control with git and GitHub
-  - JavaScript, jQuery and CoffeeScript
-  - HTML5, ERB and Haml
-  - CSS3, Sass and Twitter Bootstrap 3
-  - User authentication and authorisation with bcrypt and Devise
-  - Integration of APIs including Twilio, Stripe and Paperclip
-  - Mailgun API with RestClient
+  - JavaScript and jQuery
+  - HTML5 and ERB
+  - CSS3 and Twitter Bootstrap 3
+  - User authentication and authorisation with Bcrypt and Devise
+  - Integration of APIs including Twilio, YouTube and Mailgun
   - GitHub Flavoured Markdown
   - Deployment to Heroku
 
@@ -83,7 +82,7 @@ Contact me
 - [Personal Website]
 
   [Boris bikes]: https://github.com/jamieallen59/boris_bikes
-  [Kickstagram]: https://github.com/jamieallen59/Kickstagram
+  [Selector engine]: https://github.com/jamieallen59/JQuery_selector_engine
   [Challenge Me]: https://github.com/jamieallen59/challenge_me
 
   [Makers Academy]: http://www.makersacademy.com
