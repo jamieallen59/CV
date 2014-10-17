@@ -61,7 +61,7 @@ Experience
 ### Qustodian UK
 **Design and Product Development. March 2012&mdash;June 2014**
 
-Responsible for full editorial control of all published content on the mobile app. Designing, writing and publishing hundreds of advertising campaigns on the app. The role also included:
+Full editorial control of all published content on the mobile app. This consisted of designing, writing and publishing hundreds of advertising campaigns. The role also included:
 
 - proposing and presenting website, mobile website and app design improvements to development team and working closely through each iteration.
 - assembling detailed case studies of advertising campaigns internally including full data analysis and implementing improvements based on results.
