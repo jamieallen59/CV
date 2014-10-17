@@ -79,7 +79,7 @@ Contact me
 - [Github]
 - [LinkedIn]
 - [Twitter]
-- [Personal Website]
+- [Personal website]
 
   [Boris bikes]: https://github.com/jamieallen59/boris_bikes
   [Selector engine]: https://github.com/jamieallen59/JQuery_selector_engine
@@ -90,7 +90,7 @@ Contact me
   [Twitter]: https://twitter.com/JamieAllen59
   [GitHub]: https://github.com/jamieallen59
   [LinkedIn]: uk.linkedin.com/pub/jamie-allen/49/9bb/577/
-  [Personal Website]: http://www.jamieallen.co.uk/
+  [Personal website]: http://www.jamieallen.co.uk/
 
   [Nicola Aitken]: https://github.com/aitkenster
   [Toan Nguyen]: https://github.com/yoshdog
