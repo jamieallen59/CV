@@ -59,7 +59,7 @@ Experience
 ### JustGiving
 **Junior Front-end Developer. October 2014&mdash;present**
 
-### Qustodian UK
+### Qustodian UK (now iadbox)
 **Design and Product Development. March 2012&mdash;June 2014**
 
 Full editorial control of all published content on the mobile app. This consisted of designing, writing and publishing hundreds of advertising campaigns. The role also included:
