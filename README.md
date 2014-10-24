@@ -1,8 +1,6 @@
 Jamie Allen
 ===========
 
-**Currently available for work as a junior web developer in London**
-
 I love making things that are easy to use.
 Read my code on [GitHub].
 
@@ -57,6 +55,9 @@ This year I decided to enable myself to build digital products. To me, a user's 
 
 Experience
 ----------
+
+### JustGiving
+**Junior Front-end Developer. October 2014&mdash;present**
 
 ### Qustodian UK
 **Design and Product Development. March 2012&mdash;June 2014**
