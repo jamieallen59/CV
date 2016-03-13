@@ -36,7 +36,7 @@ Web development
 Experience
 ----------
 
-### JustGiving
+### [JustGiving]
 **Front-end Developer. October 2014&mdash;present**
 Working on JustGiving's social feed and homepage using Anuglar, React, ES6 and Gulp.
 
@@ -75,6 +75,7 @@ Contact me
   [Selector engine]: https://github.com/jamieallen59/JQuery_selector_engine
   [Challenge Me]: https://github.com/jamieallen59/challenge_me
 
+  [JustGiving]: http://www.justgiving.com
   [Makers Academy]: http://www.makersacademy.com
   [jamieallen59@gmail.com]: mailto:jamieallen59@gmail.com
   [GitHub]: https://github.com/jamieallen59
