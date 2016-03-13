@@ -1,47 +1,43 @@
 Jamie Allen
 ===========
 
-I love making things that are easy to use.
-Read my code on [GitHub].
+My background is in Product Design and after a few years out of university, I decided to enable myself to build digital products.
 
-Have a look at my [website.](http://www.jamieallen.co.uk/)
+Have a look at my [website.](http://www.jamieallen.co.uk/) (if you didn't just come from there...)
 
 Code examples
 -------------
+These are examples of code written just after I completed the Makers Academy course, back in 2014.
 
 | [Challenge Me] | [Boris bikes] | [Selector engine] |
 |:-------------- |:------------- |:------------ |
 | Test Driven Rails MVP created in 10 days to make fundraising fun. | A simple Boris Bikes program with an emphasis on code readability and OO design. | A program to take CSS selectors and return DOM elements. Tested and built using pure JavaScript. |
 
-
 Web development
 ---------------
 
-This year I decided to enable myself to build digital products. To me, a user's experience is the most important thing about any product.
-
-
 ### Skills
-
-  - Agile values, principles and practice
+  # Strongest
   - Object­ oriented principles and design
+  - JavaScript ES6, Jquery
+  - Angular and React
+  - HTML, CSS and LESS
+  - Gulp
   - Test­ driven development
-  - Pair programming
-  - Ruby 2.0
-  - Rails 4
-  - PostgreSQL
-  - Sinatra and DataMapper
-  - Unit testing with RSpec and Jasmine
-  - Integration testing with Capybara
-  - Behaviour driven development with Cucumber
-  - FactoryGirl
   - Version control with git and GitHub
-  - JavaScript and jQuery
-  - HTML5 and ERB
-  - CSS3 and Twitter Bootstrap 3
-  - User authentication and authorisation with Bcrypt and Devise
-  - Integration of APIs including Twilio, YouTube and Mailgun
-  - GitHub Flavoured Markdown
-  - Deployment to Heroku
+  - Deployment with Heroku or Amazon
+
+  # Dabbled with
+  - Webpack
+  - Redux
+  - Ruby and Ruby on Rails
+  - Sinatra
+
+Experience
+----------
+
+### JustGiving
+**Front-end Developer. October 2014&mdash;present**
 
 ### [Makers Academy]
 **Web Development Bootcamp: June&mdash;September 2014**
@@ -50,14 +46,7 @@ This year I decided to enable myself to build digital products. To me, a user's 
   - Ruby, object oriented programming and software design
   - Full stack web development
   - Pair programming and teamwork
-  - Final project: [Challenge Me] - a Rails 4 app to make fundraising more engaging and fun. Created in 10 days with [Nicola Aitken], [Toan Nguyen], [Chloe Donegan], [Nikesh Ashar] and [Joe Dowdell].
-
-
-Experience
-----------
-
-### JustGiving
-**Junior Front-end Developer. October 2014&mdash;present**
+  - Final project: [Challenge Me] - a Rails app to make fundraising more engaging and fun. Created in 10 days with [Nicola Aitken], [Toan Nguyen], [Chloe Donegan], [Nikesh Ashar] and [Joe Dowdell].
 
 ### Qustodian UK (now iadbox)
 **Design and Product Development. March 2012&mdash;June 2014**
@@ -79,7 +68,6 @@ Contact me
 - Email: [jamieallen59@gmail.com]
 - [Github]
 - [LinkedIn]
-- [Twitter]
 - [Personal website]
 
   [Boris bikes]: https://github.com/jamieallen59/boris_bikes
@@ -88,7 +76,6 @@ Contact me
 
   [Makers Academy]: http://www.makersacademy.com
   [jamieallen59@gmail.com]: mailto:jamieallen59@gmail.com
-  [Twitter]: https://twitter.com/JamieAllen59
   [GitHub]: https://github.com/jamieallen59
   [LinkedIn]: uk.linkedin.com/pub/jamie-allen/49/9bb/577/
   [Personal website]: http://www.jamieallen.co.uk/
