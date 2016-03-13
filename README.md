@@ -26,7 +26,6 @@ Web development
   - Test­ driven development
   - Version control with git and GitHub
   - Deployment with Heroku or Amazon
-
   **--- Dabbled ---**
   - Webpack
   - Redux
@@ -38,6 +37,7 @@ Experience
 
 ### [JustGiving]
 **Front-end Developer. October 2014&mdash;present**
+
 Working on JustGiving's social feed and homepage using Anuglar, React, ES6 and Gulp.
 
 ### [Makers Academy]
