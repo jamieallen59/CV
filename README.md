@@ -17,7 +17,7 @@ Web development
 ---------------
 
 ### Skills
-  # Strongest
+  **--- Strongest ---**
   - Object­ oriented principles and design
   - JavaScript ES6, Jquery
   - Angular and React
@@ -27,7 +27,7 @@ Web development
   - Version control with git and GitHub
   - Deployment with Heroku or Amazon
 
-  # Dabbled with
+  **--- Dabbled ---**
   - Webpack
   - Redux
   - Ruby and Ruby on Rails
@@ -38,6 +38,7 @@ Experience
 
 ### JustGiving
 **Front-end Developer. October 2014&mdash;present**
+Working on JustGiving's social feed and homepage using Anuglar, React, ES6 and Gulp.
 
 ### [Makers Academy]
 **Web Development Bootcamp: June&mdash;September 2014**
