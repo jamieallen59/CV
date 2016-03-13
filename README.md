@@ -17,7 +17,9 @@ Web development
 ---------------
 
 ### Skills
-  **--- Strongest ---**
+
+    **--- Strongest ---**
+
   - Object­ oriented principles and design
   - JavaScript ES6, Jquery
   - Angular and React
@@ -26,7 +28,9 @@ Web development
   - Test­ driven development
   - Version control with git and GitHub
   - Deployment with Heroku or Amazon
+
   **--- Dabbled ---**
+
   - Webpack
   - Redux
   - Ruby and Ruby on Rails
