@@ -10,7 +10,7 @@ Web development
 
 ### Skills
 
-	*--- strongest ---*
+	--- strongest --
 
 	- Object­ oriented principles and design. DRY code.
 	- JavaScript ES6
@@ -21,14 +21,14 @@ Web development
 	- Gulp
 	- Version control with git and GitHub
 
-	*--- proficient ---*
+	--- proficient ---
 
 	- Angular
 	- JQuery
 	- Test­ driven development
 	- Deployment with Heroku or Amazon
 
-	*--- dabbled ---*
+	--- dabbled ---
 
 	- Ruby
 	- Ruby on Rails
