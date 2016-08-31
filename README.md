@@ -1,7 +1,7 @@
 Jamie Allen
 ===========
 
-My background is in Product Design and after a few years out of university, I decided to enable myself to build digital products. I've continued to learn and developer my skills, moving from JavaScript ES5, Jquery, CSS, Angular and Gulp, to ES6, LESS/SASS, React, Redux and webpack.
+My background is in Product Design and after a few years out of university, I decided to enable myself to build digital products. I've continued to learn and develope my skills, moving from ES5, Jquery, CSS, Angular and Gulp, to ES6, LESS/SASS, React, Redux and webpack.
 
 Have a look at my [website.](http://www.jamieallen.co.uk/)
 
@@ -10,7 +10,7 @@ Web development
 
 ### Skills
 
-	**--- strongest ---**
+	*--- strongest ---*
 
 	- Object­ oriented principles and design. DRY code.
 	- JavaScript ES6
@@ -21,14 +21,14 @@ Web development
 	- Gulp
 	- Version control with git and GitHub
 
-	**--- proficient ---**
+	*--- proficient ---*
 
 	- Angular
 	- JQuery
 	- Test­ driven development
 	- Deployment with Heroku or Amazon
 
-	**--- dabbled ---**
+	*--- dabbled ---*
 
 	- Ruby
 	- Ruby on Rails
@@ -60,7 +60,7 @@ Working on JustGiving's social feed and homepage using Angular, React, ES6, Gulp
   - Pair programming and teamwork
   - Final project: [Challenge Me] - a Rails app to make fundraising more engaging and fun. Created in 10 days with [Nicola Aitken], [Toan Nguyen], [Chloe Donegan], [Nikesh Ashar] and [Joe Dowdell].
 
-  These are examples of code written just after completing Makers Academy, back in 2014.
+  These are examples of code written just after completing Makers Academy.
 
   | [Challenge Me] | [Boris bikes] | [Selector engine] |
   |:-------------- |:------------- |:------------ |
