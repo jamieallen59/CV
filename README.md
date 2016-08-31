@@ -1,48 +1,55 @@
 Jamie Allen
 ===========
 
-My background is in Product Design and after a few years out of university, I decided to enable myself to build digital products.
+My background is in Product Design and after a few years out of university, I decided to enable myself to build digital products. I've continued to learn and developer my skills, moving from JavaScript ES5, Jquery, CSS, Angular and Gulp, to ES6, LESS/SASS, React, Redux and webpack.
 
-Have a look at my [website.](http://www.jamieallen.co.uk/) (if you didn't just come from there...)
-
-Code examples
--------------
-These are examples of code written just after I completed the Makers Academy course, back in 2014.
-
-| [Challenge Me] | [Boris bikes] | [Selector engine] |
-|:-------------- |:------------- |:------------ |
-| Test Driven Rails MVP created in 10 days to make fundraising fun. | A simple Boris Bikes program with an emphasis on code readability and OO design. | A program to take CSS selectors and return DOM elements. Tested and built using pure JavaScript. |
+Have a look at my [website.](http://www.jamieallen.co.uk/)
 
 Web development
 ---------------
 
 ### Skills
 
-    **--- Strongest ---**
+	**--- strongest ---**
 
-  - Object­ oriented principles and design
-  - JavaScript ES6, Jquery
-  - Angular and React
-  - HTML, CSS and LESS
-  - Gulp
-  - Test­ driven development
-  - Version control with git and GitHub
-  - Deployment with Heroku or Amazon
+	- Object­ oriented principles and design. DRY code.
+	- JavaScript ES6
+	- React
+	- Redux
+	- Webpack
+	- HTML5, LESS/SASS
+	- Gulp
+	- Version control with git and GitHub
 
-  **--- Dabbled ---**
+	**--- proficient ---**
 
-  - Webpack
-  - Redux
-  - Ruby and Ruby on Rails
-  - Sinatra
+	- Angular
+	- JQuery
+	- Test­ driven development
+	- Deployment with Heroku or Amazon
+
+	**--- dabbled ---**
+
+	- Ruby
+	- Ruby on Rails
+	- Sinatra
+
 
 Experience
 ----------
 
-### [JustGiving]
-**Front-end Developer. October 2014&mdash;present**
+### [OfficeServe]
+**Front-end Developer. April 2016&mdash;present**
 
-Working on JustGiving's social feed and homepage using Anuglar, React, ES6 and Gulp.
+Built the OfficeServe e-commerce platform from scratch along with one other developer. built
+using ES6, React + Redux with webpack and SASS.
+
+(The site is going live imminently so if the website looks old when you click the link, it hasn't been released yet)
+
+### [JustGiving]
+**Front-end Developer. October 2014&mdash;April 2016**
+
+Working on JustGiving's social feed and homepage using Angular, React, ES6, Gulp and LESS.
 
 ### [Makers Academy]
 **Web Development Bootcamp: June&mdash;September 2014**
@@ -52,6 +59,12 @@ Working on JustGiving's social feed and homepage using Anuglar, React, ES6 and G
   - Full stack web development
   - Pair programming and teamwork
   - Final project: [Challenge Me] - a Rails app to make fundraising more engaging and fun. Created in 10 days with [Nicola Aitken], [Toan Nguyen], [Chloe Donegan], [Nikesh Ashar] and [Joe Dowdell].
+
+  These are examples of code written just after completing Makers Academy, back in 2014.
+
+  | [Challenge Me] | [Boris bikes] | [Selector engine] |
+  |:-------------- |:------------- |:------------ |
+  | Test Driven Rails MVP created in 10 days to make fundraising fun. | A simple Boris Bikes program with an emphasis on code readability and OO design. | A program to take CSS selectors and return DOM elements. Tested and built using pure JavaScript. |
 
 ### Qustodian UK (now iadbox)
 **Design and Product Development. March 2012&mdash;June 2014**
@@ -79,6 +92,7 @@ Contact me
   [Selector engine]: https://github.com/jamieallen59/JQuery_selector_engine
   [Challenge Me]: https://github.com/jamieallen59/challenge_me
 
+  [OfficeServe]: http://www.officeserve.com
   [JustGiving]: http://www.justgiving.com
   [Makers Academy]: http://www.makersacademy.com
   [jamieallen59@gmail.com]: mailto:jamieallen59@gmail.com
