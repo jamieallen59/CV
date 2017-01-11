@@ -1,7 +1,9 @@
 Jamie Allen
 ===========
 
-My background is in Product Design and after a few years out of university, I decided to enable myself to build digital products. I've continued to learn and develop my skills, moving from ES5, JQuery, CSS, Angular and Gulp, to ES6, LESS/SASS, React, Redux and webpack.
+### React Frontend Developer.
+
+I am a frontend developer with a product development and design background who is passionate about modern technology. I believe in putting the user front and centre when approaching business problems. I enjoy collaborating closely with designers, PM’s and other developers to get cutting edge user-interfaces into the hands of customers, built using robust, readable code.
 
 Have a look at my [website.](http://www.jamieallen.co.uk/)
 
@@ -17,6 +19,8 @@ Web development
 	- React
 	- Redux
 	- Webpack
+	- Performance audit and enhancements
+	- TDD
 	- HTML5, LESS/SASS
 	- Gulp
 	- Version control with git and GitHub
@@ -27,9 +31,12 @@ Web development
 	- JQuery
 	- Test­ driven development
 	- Deployment with Heroku or Amazon
+	- Docker + Docker Cloud
+	- Circle CI
 
 	***--- dabbled ---***
 
+	- GraphQl
 	- Ruby
 	- Ruby on Rails
 	- Sinatra
@@ -38,18 +45,29 @@ Web development
 Experience
 ----------
 
+### [FIXR]
+**Front-end Developer. Oct 2016&mdash;present**
+
+At FIXR I work as the sole developer on their isomorphic frontend application managing the code from inception to delivery. The focus currently is adding new features and stabilising their platform ready for their funding round in April.
+
+I balance continuous delivery, code readability and rapid product development to ensure the app is in great shape now and for whoever works with it next.
+
+Technologies: JS/ES6 - Node - React - Redux - Webpack - Express - SASS - Docker Cloud - Mixcloud - Sentry
+
 ### [OfficeServe]
-**Front-end Developer. April 2016&mdash;present**
+**Front-end Developer. April 2016&mdash;Oct 2016**
 
-Built the OfficeServe e-commerce platform from scratch along with one other developer. built
-using ES6, React + Redux with webpack and SASS.
+On the greenest of green fields, myself and one other frontend developer built OfficeServe’s e-commerce platform from scratch. The site includes registration and login using Amazon’s Cognito SDK, Cognito Sync to synchronise across multiple devices, a full checkout, a payment service using Spreedly and also product listings and display.
 
-(The site is going live imminently so if the website looks old when you click the link, it hasn't been released yet)
+Technologies: JS/ES6 - Node - React - Redux - Webpack - AWS Cognito - LESS - Docker - Circle CI - Segment
 
 ### [JustGiving]
 **Front-end Developer. October 2014&mdash;April 2016**
 
-Working on JustGiving's social feed and homepage using Angular, React, ES6, Gulp and LESS.
+At JusGiving I initially worked under a senior contractor, then subsequently became the sole frontend resource on JG’s landing page and home feed. This involved working in a large agile team including data scientists, designers and backend developers. The landing page and home feed received over 60K visit p/day.
+With complete ownership of the frontend product by the time I left, I used a variety of technologies throughout my time at JG.
+
+Technologies: JS/ES6 - Angular - React - Gulp - Webpack - C# .NET - LESS - JQuery
 
 ### [Makers Academy]
 **Web Development Bootcamp: June&mdash;September 2014**
@@ -57,8 +75,8 @@ Working on JustGiving's social feed and homepage using Angular, React, ES6, Gulp
   - Highly selective 12 week full-time course
   - Ruby, object oriented programming and software design
   - Full stack web development
-  - Pair programming and teamwork
-  - Final project: [Challenge Me] - a Rails app to make fundraising more engaging and fun. Created in 10 days with [Nicola Aitken], [Toan Nguyen], [Chloe Donegan], [Nikesh Ashar] and [Joe Dowdell].
+  - Pair programming
+  - Final project: [Challenge Me] - a Rails app to make fundraising more engaging and fun. Created in 10 days.
 
   These are examples of code written just after completing Makers Academy.
 
@@ -79,6 +97,13 @@ Full editorial control of all published content on the mobile app. This consiste
 - press advert, landing page, mobile banner and web banner design.
 - affiliate marketing account management.
 
+
+Mentoring and Teaching
+----------
+
+Mentor - Drive Forward Foundation
+Teacher - codeatuni
+
 Contact me
 ------------
 
@@ -92,6 +117,7 @@ Contact me
   [Selector engine]: https://github.com/jamieallen59/JQuery_selector_engine
   [Challenge Me]: https://github.com/jamieallen59/challenge_me
 
+  [FIXR]: https://fixr-app.com
   [OfficeServe]: http://www.officeserve.com
   [JustGiving]: http://www.justgiving.com
   [Makers Academy]: http://www.makersacademy.com
