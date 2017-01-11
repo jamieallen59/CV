@@ -12,7 +12,7 @@ Web development
 
 ### Skills
 
-	***--- strongest ---***
+	**--- strongest ---**
 
 	- Object­ oriented principles and design. DRY code.
 	- JavaScript ES6
@@ -25,7 +25,7 @@ Web development
 	- Gulp
 	- Version control with git and GitHub
 
-	***--- proficient ---***
+	**--- proficient ---**
 
 	- Angular
 	- JQuery
@@ -34,7 +34,7 @@ Web development
 	- Docker + Docker Cloud
 	- Circle CI
 
-	***--- dabbled ---***
+	**--- dabbled ---**
 
 	- GraphQl
 	- Ruby
@@ -101,8 +101,9 @@ Full editorial control of all published content on the mobile app. This consiste
 Mentoring and Teaching
 ----------
 
-Mentor - Drive Forward Foundation
-Teacher - codeatuni
+**Mentor** - Drive Forward Foundation
+
+**Teacher** - codeatuni
 
 Contact me
 ------------
