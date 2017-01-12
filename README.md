@@ -46,7 +46,7 @@ Experience
 ----------
 
 ### [FIXR]
-**Front-end Developer. Oct 2016&mdash;present**
+**Front-end Developer. Oct 2016&mdash;present** (contract)
 
 At FIXR I work as the sole developer on their isomorphic frontend application managing the code from inception to delivery. The focus currently is adding new features and stabilising their platform ready for their funding round in April.
 
