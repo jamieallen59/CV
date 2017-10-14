@@ -1,52 +1,24 @@
 Jamie Allen
 ===========
 
-### React Frontend Developer.
+### JavaScript Developer
 
-I am a frontend developer with a product development and design background who is passionate about modern technology. I believe in putting the user front and centre when approaching business problems. I enjoy collaborating closely with designers, PM’s and other developers to get cutting edge user-interfaces into the hands of customers, built using robust, readable code.
+I am a JavaScript developer with a product development and design background, passionate about modern technology. I believe in putting the user front and centre when approaching business problems and I enjoy collaborating closely with designers, PM’s and other developers to get cutting edge user-interfaces into the hands of customers. When writing code I focus on robustness, simplicity and readability.
 
 Have a look at my [website.](http://www.jamieallen.co.uk/)
-
-Web development
----------------
-
-### Skills
-
-	**--- strongest ---**
-
-	- Object­ oriented principles and design. DRY code.
-	- JavaScript ES6
-	- React
-	- Redux
-	- Webpack
-	- Performance audit and enhancements
-	- TDD
-	- HTML5, LESS/SASS
-	- Gulp
-	- Version control with git and GitHub
-
-	**--- proficient ---**
-
-	- Angular
-	- JQuery
-	- Test­ driven development
-	- Deployment with Heroku or Amazon
-	- Docker + Docker Cloud
-	- Circle CI
-
-	**--- dabbled ---**
-
-	- GraphQl
-	- Ruby
-	- Ruby on Rails
-	- Sinatra
-
 
 Experience
 ----------
 
+### Boston Consulting Group ([WonderBill])
+**JavaScript Developer. Jan 2017&mdash;present** (contract)
+
+Working on one of BCG's projects, WonderBill, I have spent 6 months bringing their web frontend up to a professional standard. Now, I focus on their new V2 React Native application, due to be released in late October.
+
+Technologies: JS/ES6 - React - React Native - Redux - Webpack - SASS - Docker Cloud - Mixcloud - Sentry
+
 ### [FIXR]
-**Front-end Developer. Oct 2016&mdash;present** (contract)
+**JavaScript Developer. Oct 2016&mdash;Jan 2016** (contract)
 
 At FIXR I work as the sole developer on their isomorphic frontend application managing the code from inception to delivery. The focus currently is adding new features and stabilising their platform ready for their funding round in April.
 
@@ -55,7 +27,7 @@ I balance continuous delivery, code readability and rapid product development to
 Technologies: JS/ES6 - Node - React - Redux - Webpack - Express - SASS - Docker Cloud - Mixcloud - Sentry
 
 ### [OfficeServe]
-**Front-end Developer. April 2016&mdash;Oct 2016**
+**JavaScript Developer. April 2016&mdash;Oct 2016**
 
 On the greenest of green fields, myself and one other frontend developer built OfficeServe’s e-commerce platform from scratch. The site includes registration and login using Amazon’s Cognito SDK, Cognito Sync to synchronise across multiple devices, a full checkout, a payment service using Spreedly and also product listings and display.
 
@@ -89,11 +61,11 @@ Technologies: JS/ES6 - Angular - React - Gulp - Webpack - C# .NET - LESS - JQuer
 
 Full editorial control of all published content on the mobile app. This consisted of designing, writing and publishing hundreds of advertising campaigns. The role also included:
 
-- proposing and presenting website, mobile website and app design improvements to development team and working closely through each iteration.
-- assembling detailed case studies of advertising campaigns internally including full data analysis and implementing improvements based on results.
+- proposing and presenting design improvements to development team for the website and app.
+- assembling case studies of advertising campaigns with data analysis and implementing improvements based on results.
 - developing content creation guidelines and best practices.
 - A/B testing, pre and post research around advertising campaigns.
-- compiling reports of campaigns including detailed analysis for clients.
+- compiling reports of campaigns for clients.
 - press advert, landing page, mobile banner and web banner design.
 - affiliate marketing account management.
 
@@ -118,6 +90,7 @@ Contact me
   [Selector engine]: https://github.com/jamieallen59/JQuery_selector_engine
   [Challenge Me]: https://github.com/jamieallen59/challenge_me
 
+  [WonderBill]: https://my.wonderbill.com/
   [FIXR]: https://fixr-app.com
   [OfficeServe]: http://www.officeserve.com
   [JustGiving]: http://www.justgiving.com
@@ -126,9 +99,3 @@ Contact me
   [GitHub]: https://github.com/jamieallen59
   [LinkedIn]: uk.linkedin.com/pub/jamie-allen/49/9bb/577/
   [Personal website]: http://www.jamieallen.co.uk/
-
-  [Nicola Aitken]: https://github.com/aitkenster
-  [Toan Nguyen]: https://github.com/yoshdog
-  [Chloe Donegan]: https://github.com/csharpd
-  [Nikesh Ashar]: https://github.com/nikeshashar
-  [Joe Dowdell]: https://github.com/joedowdell
