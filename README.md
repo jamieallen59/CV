@@ -10,7 +10,7 @@ Have a look at my [website.](http://www.jamieallen.co.uk/)
 Experience
 ----------
 
-### Boston Consulting Group ([WonderBill])
+### [Boston Consulting Group (WonderBill)]
 **JavaScript Developer. Jan 2017&mdash;present** (contract)
 
 Working on one of BCG's projects, WonderBill, I have spent 6 months bringing their web frontend up to a professional standard. Now I focus on their new V2 React Native application, due to be released in November.
@@ -90,7 +90,7 @@ Contact me
   [Selector engine]: https://github.com/jamieallen59/JQuery_selector_engine
   [Challenge Me]: https://github.com/jamieallen59/challenge_me
 
-  [WonderBill]: https://my.wonderbill.com/
+  [Boston Consulting Group (WonderBill)]: https://my.wonderbill.com/
   [FIXR]: https://fixr-app.com
   [OfficeServe]: http://www.officeserve.com
   [JustGiving]: http://www.justgiving.com
