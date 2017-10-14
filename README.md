@@ -13,23 +13,23 @@ Experience
 ### Boston Consulting Group ([WonderBill])
 **JavaScript Developer. Jan 2017&mdash;present** (contract)
 
-Working on one of BCG's projects, WonderBill, I have spent 6 months bringing their web frontend up to a professional standard. Now, I focus on their new V2 React Native application, due to be released in late October.
+Working on one of BCG's projects, WonderBill, I have spent 6 months bringing their web frontend up to a professional standard. Now I focus on their new V2 React Native application, due to be released in November.
 
 Technologies: JS/ES6 - React - React Native - Redux - Webpack - SASS - Docker Cloud - Mixcloud - Sentry
 
 ### [FIXR]
 **JavaScript Developer. Oct 2016&mdash;Jan 2016** (contract)
 
-At FIXR I work as the sole developer on their isomorphic frontend application managing the code from inception to delivery. The focus currently is adding new features and stabilising their platform ready for their funding round in April.
+At FIXR I worked on their isomorphic application managing the whole of the JavaScript web application. The focus was mainly adding new features, plus stabilising the platform ready for their funding round in April.
 
-I balance continuous delivery, code readability and rapid product development to ensure the app is in great shape now and for whoever works with it next.
+I balanced continuous delivery, code readability and rapid product development to ensure the app was in great shape for whoever worked with it next.
 
 Technologies: JS/ES6 - Node - React - Redux - Webpack - Express - SASS - Docker Cloud - Mixcloud - Sentry
 
 ### [OfficeServe]
 **JavaScript Developer. April 2016&mdash;Oct 2016**
 
-On the greenest of green fields, myself and one other frontend developer built OfficeServe’s e-commerce platform from scratch. The site includes registration and login using Amazon’s Cognito SDK, Cognito Sync to synchronise across multiple devices, a full checkout, a payment service using Spreedly and also product listings and display.
+On the greenest of green fields, myself and one other JavaScript developer built OfficeServe’s e-commerce platform. The site includes registration and login using Amazon’s Cognito SDK, Cognito Sync to synchronise across multiple devices, a full checkout, a payment service using Spreedly and also product listings and display.
 
 Technologies: JS/ES6 - Node - React - Redux - Webpack - AWS Cognito - LESS - Docker - Circle CI - Segment
 
