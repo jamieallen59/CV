@@ -7,7 +7,7 @@ I’m a JavaScript engineer specialising in React, React Native and Redux.
 
 I enjoy collaborating closely with designers, product managers and other developers to get cutting edge user-interfaces into the hands of customers built using robust, maintainable and scalable code.
 
-My focus when writing code is always on the next developer. I value well thought out names, clarity and consistency.
+My focus when writing code is always on the next developer. I value thorough testing, clarity and consistency.
 
 Have a look at my [website.](http://www.jamieallen.co.uk/)
 
