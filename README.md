@@ -94,6 +94,7 @@ Contact me
 - [LinkedIn]
 - [Personal website]
 
+  [Applied Blockchain]: https://appliedblockchain.com/
   [Boston Consulting Group (WonderBill)]: https://my.wonderbill.com/
   [FIXR]: https://fixr-app.com
   [OfficeServe]: http://www.officeserve.com
