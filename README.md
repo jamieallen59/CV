@@ -1,21 +1,37 @@
 Jamie Allen
 ===========
 
-### JavaScript Developer
+### JavaScript Engineer
 
-I am a JavaScript developer with a product development and design background, passionate about modern technology. I believe in putting the user front and centre when approaching business problems and I enjoy collaborating closely with designers, PM’s and other developers to get cutting edge user-interfaces into the hands of customers. When writing code I focus on robustness, simplicity and readability.
+I’m a JavaScript engineer specialising in React, React Native and Redux.
+
+I enjoy collaborating closely with designers, product managers and other developers to get cutting edge user-interfaces into the hands of customers built using robust, maintainable and scalable code.
+
+My focus when writing code is always on the next developer. I value well thought out names, clarity and consistency.
 
 Have a look at my [website.](http://www.jamieallen.co.uk/)
+
+Main skills
+----------
+
+`JavaScript` / `React` / `React Native` / `Redux` / `Webpack` / `Node` / `Koa` / `CircleCi` / `Docker` / `HTML` / `CSS` / `SASS` / `LESS` / `Angular` / `Websockets` / `Observables` / `Sagas` / `Ruby` / `Go` /
 
 Experience
 ----------
 
+### [Applied Blockchain]
+**Software Engineer. Feb 2018&mdash;Sep 2018**
+
+Initially worked on a blockchain trading platform in a large high-performance team. Then moved onto leading a smaller project involving transferral of a ship registry onto the blockchain.
+
+Technologies: JS/ES6 - React - Redux - Node - Docker - CircleCi
+
 ### [Boston Consulting Group (WonderBill)]
-**JavaScript Developer. Jan 2017&mdash;present** (contract)
+**JavaScript Developer. Jan 2017&mdash;Feb 2018** (contract)
 
-Working on one of BCG's projects, WonderBill, I have spent 6 months bringing their web frontend up to a professional standard. Now I focus on their new V2 React Native application, due to be released in November.
+Initially I worked on one of BCG's projects, WonderBill, bringing their web frontend up to a professional standard. Then focus moved onto their new V2 React Native application.
 
-Technologies: JS/ES6 - React - React Native - Redux - Webpack - SASS - Docker Cloud - Mixcloud - Sentry
+Technologies: JS/ES6 - React - React Native - Redux - Webpack - SASS - Docker - Mixcloud - Sentry
 
 ### [FIXR]
 **JavaScript Developer. Oct 2016&mdash;Jan 2016** (contract)
@@ -50,12 +66,6 @@ Technologies: JS/ES6 - Angular - React - Gulp - Webpack - C# .NET - LESS - JQuer
   - Pair programming
   - Final project: [Challenge Me] - a Rails app to make fundraising more engaging and fun. Created in 10 days.
 
-  These are examples of code written just after completing Makers Academy.
-
-  | [Challenge Me] | [Boris bikes] | [Selector engine] |
-  |:-------------- |:------------- |:------------ |
-  | Test Driven Rails MVP created in 10 days to make fundraising fun. | A simple Boris Bikes program with an emphasis on code readability and OO design. | A program to take CSS selectors and return DOM elements. Tested and built using pure JavaScript. |
-
 ### Qustodian UK (now iadbox)
 **Design and Product Development. March 2012&mdash;June 2014**
 
@@ -75,8 +85,6 @@ Mentoring and Teaching
 
 **Mentor** - Drive Forward Foundation
 
-**Teacher** - codeatuni
-
 Contact me
 ------------
 
@@ -85,10 +93,6 @@ Contact me
 - [Github]
 - [LinkedIn]
 - [Personal website]
-
-  [Boris bikes]: https://github.com/jamieallen59/boris_bikes
-  [Selector engine]: https://github.com/jamieallen59/JQuery_selector_engine
-  [Challenge Me]: https://github.com/jamieallen59/challenge_me
 
   [Boston Consulting Group (WonderBill)]: https://my.wonderbill.com/
   [FIXR]: https://fixr-app.com
