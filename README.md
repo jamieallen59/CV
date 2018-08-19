@@ -24,14 +24,14 @@ Experience
 
 Initially worked on a blockchain trading platform in a large high-performance team. Then moved onto leading a smaller project involving transferral of a ship registry onto the blockchain.
 
-Technologies: JS/ES6 - React - Redux - Node - Docker - CircleCi
+Technologies: `JS/ES6` - `React` - `Redux` - `Node` - `Docker` - `CircleCi`
 
 ### [Boston Consulting Group (WonderBill)]
 **JavaScript Developer. Jan 2017&mdash;Feb 2018** (contract)
 
 Initially I worked on one of BCG's projects, WonderBill, bringing their web frontend up to a professional standard. Then focus moved onto their new V2 React Native application.
 
-Technologies: JS/ES6 - React - React Native - Redux - Webpack - SASS - Docker - Mixcloud - Sentry
+Technologies: `JS/ES6` - `React` - `React Native` - `Redux` - `Webpack` - `SASS` - `Docker` - `Mixcloud` - `Sentry`
 
 ### [FIXR]
 **JavaScript Developer. Oct 2016&mdash;Jan 2016** (contract)
@@ -40,14 +40,14 @@ At FIXR I worked on their isomorphic application managing the whole of the JavaS
 
 I balanced continuous delivery, code readability and rapid product development to ensure the app was in great shape for whoever worked with it next.
 
-Technologies: JS/ES6 - Node - React - Redux - Webpack - Express - SASS - Docker Cloud - Mixcloud - Sentry
+Technologies: `JS/ES6` - `Node` - `React` - `Redux` - `Webpack` - `Express` - `SASS` - `Docker` - `Mixcloud` - `Sentry`
 
 ### [OfficeServe]
 **JavaScript Developer. April 2016&mdash;Oct 2016**
 
 On the greenest of green fields, myself and one other JavaScript developer built OfficeServe’s e-commerce platform. The site includes registration and login using Amazon’s Cognito SDK, Cognito Sync to synchronise across multiple devices, a full checkout, a payment service using Spreedly and also product listings and display.
 
-Technologies: JS/ES6 - Node - React - Redux - Webpack - AWS Cognito - LESS - Docker - Circle CI - Segment
+Technologies: `JS/ES6` - `Node` - `React` - `Redux` - `Webpack` - `AWS Cognito` - `LESS` - `Docker` - `Circle CI` - `Segment`
 
 ### [JustGiving]
 **Front-end Developer. October 2014&mdash;April 2016**
@@ -55,7 +55,7 @@ Technologies: JS/ES6 - Node - React - Redux - Webpack - AWS Cognito - LESS - Doc
 At JusGiving I initially worked under a senior contractor, then subsequently became the sole frontend resource on JG’s landing page and home feed. This involved working in a large agile team including data scientists, designers and backend developers. The landing page and home feed received over 60K visit p/day.
 With complete ownership of the frontend product by the time I left, I used a variety of technologies throughout my time at JG.
 
-Technologies: JS/ES6 - Angular - React - Gulp - Webpack - C# .NET - LESS - JQuery
+Technologies: `JS/ES6` - `Angular` - `React` - `Gulp` - `Webpack` - `C# .NET` - `LESS` - `JQuery`
 
 ### [Makers Academy]
 **Web Development Bootcamp: June&mdash;September 2014**
@@ -64,7 +64,7 @@ Technologies: JS/ES6 - Angular - React - Gulp - Webpack - C# .NET - LESS - JQuer
   - Ruby, object oriented programming and software design
   - Full stack web development
   - Pair programming
-  - Final project: [Challenge Me] - a Rails app to make fundraising more engaging and fun. Created in 10 days.
+  - Final project: "Challenge Me" - a Rails app created in 10 days to make fundraising more engaging and fun.
 
 ### Qustodian UK (now iadbox)
 **Design and Product Development. March 2012&mdash;June 2014**
